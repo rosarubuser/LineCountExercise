@@ -1,0 +1,4 @@
+*.DS_Store
+.idea/*
+__pycache__/*
+testing/__pycache__/*
